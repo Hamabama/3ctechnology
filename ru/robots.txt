@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Host: 3ctechnology.ru
+Sitemap: http://3ctechnology.ru/sitemap.xml
