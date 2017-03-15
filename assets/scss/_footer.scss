@@ -6,19 +6,17 @@ $footerHeight: 60px;
   background-color: $green;
   z-index: 999;
   display: flex;
-justify-content: center;
-}
-.mail {
-  height: $footerHeight;
-  line-height: $footerHeight;
-  color: white;
-  font-size: 1.4rem;
+  justify-content: center;
 }
 
-.copyright {
+.copyright,
+.mail,
+.phone {
+
   height: $footerHeight;
   line-height: $footerHeight;
   color: white;
   font-size: 1.4rem;
   margin-right: 50px;
+
 }

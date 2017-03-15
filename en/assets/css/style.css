@@ -516,13 +516,9 @@ p {
   -ms-flex-pack: center;
   justify-content: center; }
 
-.mail {
-  height: 60px;
-  line-height: 60px;
-  color: white;
-  font-size: 1.4rem; }
-
-.copyright {
+.copyright,
+.mail,
+.phone {
   height: 60px;
   line-height: 60px;
   color: white;
